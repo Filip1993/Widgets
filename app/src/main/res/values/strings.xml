@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Widgets</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="music_on">Music on</string>
+    <string name="music_off">Music off</string>
+    <string name="languages">Languages</string>
+    <string name="english">English</string>
+    <string name="croatian">Croatian</string>
+    <string name="italian">Italian</string>
+    <string name="colors">Colors</string>
+</resources>
